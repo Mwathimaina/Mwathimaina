@@ -1,6 +1,6 @@
 <!--
   PERSONAL GitHub profile README.
-  Lives in a repo named EXACTLY your handle (e.g. github.com/martin-orvantis/martin-orvantis),
+  Lives in a repo named EXACTLY your handle (e.g. github.com/Mwathimaina/Mwathimaina),
   file README.md. GitHub renders it on your profile page.
 
   This is the account that SUBMITS coordinated disclosures and is CREDITED in CVEs/GHSAs.
@@ -28,7 +28,7 @@ before criminals do, and prove every one.
 - _Published advisories will be listed here as they are disclosed._
 
 ### Open-source tools
-- **[cvss4](https://github.com/orvantis/cvss4)** — a correct, dependency-free CVSS v4.0 scorer
+- **[cvss4](https://github.com/orvantis-security/cvss4)** — a correct, dependency-free CVSS v4.0 scorer
   (CLI + library + offline web calculator), validated against every FIRST.org reference vector.
 
 ### Elsewhere
