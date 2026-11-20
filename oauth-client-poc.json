@@ -1,0 +1,14 @@
+{
+ "client_id": "https://raw.githubusercontent.com/Mwathimaina/Mwathimaina/main/oauth-client-poc.json",
+ "client_name": "faraday-redirect-uri-allowlist-bypass-poc",
+ "redirect_uris": [
+  "https://raw.githubusercontent.com/Mwathimaina/Mwathimaina/main/oauth-client-poc.json"
+ ],
+ "grant_types": [
+  "authorization_code"
+ ],
+ "response_types": [
+  "code"
+ ],
+ "token_endpoint_auth_method": "none"
+}
