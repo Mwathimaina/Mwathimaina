@@ -2,7 +2,7 @@
  "client_id": "https://raw.githubusercontent.com/Mwathimaina/Mwathimaina/main/oauth-client.json",
  "client_name": "faraday-rt-probe",
  "redirect_uris": [
-  "https://example.com/callback"
+  "https://raw.githubusercontent.com/Mwathimaina/Mwathimaina/main/oauth-client.json"
  ],
  "grant_types": [
   "authorization_code"
